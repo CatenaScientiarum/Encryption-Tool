@@ -1,0 +1,28 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific Files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio specific
+.vscode/
+.vs/
+
+# MacOS specific
+.DS_Store
+
+# Logs
+*.log
+
+# Runtime files
+*.db
+*.lock.json
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
